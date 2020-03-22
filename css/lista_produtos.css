@@ -1,0 +1,44 @@
+label {
+    color: white;
+}
+
+.filter-group {
+    border-bottom: 1px solid #e4e4e4; 
+}
+
+.filter-group .card-header {
+    border-bottom: 0; 
+}
+
+.filter-group:last-child {
+    border-bottom: 0; 
+}
+
+.container {
+    margin-top: 20px;
+}
+
+ul {
+    list-style: none;
+    padding-left: 7px !important;
+}
+
+li > a {
+    text-decoration: none !important;
+    color: black !important;
+}
+
+.categoriaAtiva {
+    font-weight: bold !important;
+}
+
+.btnFinalizarPedido {
+    font-weight: bold;
+    color: white;
+    background-color: #0c8b98;
+    border-radius: 5px;
+    width: 145px;
+    text-align: center;
+    padding: 7px;
+    cursor: pointer;
+}

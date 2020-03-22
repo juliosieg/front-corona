@@ -1,0 +1,11 @@
+.container {
+    margin-top: 20px;
+}
+
+p.icontext {
+    margin-bottom: 0px !important;
+}
+
+label {
+    color: white !important;
+}
